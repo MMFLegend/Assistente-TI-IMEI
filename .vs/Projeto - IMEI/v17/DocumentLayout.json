@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Escola\\Projeto_MultiDisciplina\\Projeto - IMEI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Escola\\Projeto_MultiDisciplina\\Projeto - IMEI\\InterfaceAssistenteTI_Matheus.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterfaceAssistenteTI_Matheus.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Escola\\Projeto_MultiDisciplina\\Projeto - IMEI\\AssistenteTI_Matheus.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AssistenteTI_Matheus.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Escola\\Projeto_MultiDisciplina\\Projeto - IMEI\\ProjectX.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectX.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 227,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterfaceAssistenteTI_Matheus.py",
+              "DocumentMoniker": "E:\\Escola\\Projeto_MultiDisciplina\\Projeto - IMEI\\InterfaceAssistenteTI_Matheus.py",
+              "RelativeDocumentMoniker": "InterfaceAssistenteTI_Matheus.py",
+              "ToolTip": "E:\\Escola\\Projeto_MultiDisciplina\\Projeto - IMEI\\InterfaceAssistenteTI_Matheus.py",
+              "RelativeToolTip": "InterfaceAssistenteTI_Matheus.py",
+              "ViewState": "AQIAALEAAAAAAAAAAADwv8sAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-06-16T20:02:42.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 173,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectX.py",
+              "DocumentMoniker": "E:\\Escola\\Projeto_MultiDisciplina\\Projeto - IMEI\\ProjectX.py",
+              "RelativeDocumentMoniker": "ProjectX.py",
+              "ToolTip": "E:\\Escola\\Projeto_MultiDisciplina\\Projeto - IMEI\\ProjectX.py",
+              "RelativeToolTip": "ProjectX.py",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-06-16T20:11:10.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssistenteTI_Matheus.py",
+              "DocumentMoniker": "E:\\Escola\\Projeto_MultiDisciplina\\Projeto - IMEI\\AssistenteTI_Matheus.py",
+              "RelativeDocumentMoniker": "AssistenteTI_Matheus.py",
+              "ToolTip": "E:\\Escola\\Projeto_MultiDisciplina\\Projeto - IMEI\\AssistenteTI_Matheus.py",
+              "RelativeToolTip": "AssistenteTI_Matheus.py",
+              "ViewState": "AQIAAC4BAAAAAAAAAAAwwDQBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-06-16T20:02:46.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
